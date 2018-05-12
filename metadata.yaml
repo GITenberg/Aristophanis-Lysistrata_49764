@@ -1,9 +1,13 @@
 _repo: Aristophanis-Lysistrata_49764
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Brunck, Richard Francois Philippe
     gutenberg_agent_id: '45532'
     url: http://www.gutenberg.org/2009/agents/45532
+covers:
+- cover_type: archival
+  image_path: 49764-h/images/Lysistrata_cover.jpg
 creator:
   author:
     agent_name: Aristophanes
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/965
     wikipedia: http://en.wikipedia.org/wiki/Aristophanes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49764#Aristophanis-Lysistrata
 gutenberg_issued: '2015-08-23'
 gutenberg_type: Text
 identifiers:
